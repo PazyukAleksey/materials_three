@@ -23,7 +23,8 @@ export default {
             {
                 main: resolve(__dirname, 'src/index.html'),
                 lights: resolve(__dirname, 'src/lights/index.html'),
-                shadow: resolve(__dirname, 'src/shadow/index.html')
+                shadow: resolve(__dirname, 'src/shadow/index.html'),
+                house: resolve(__dirname, 'src/house/index.html'),
             }
         }
     },
