@@ -25,6 +25,7 @@ export default {
                 lights: resolve(__dirname, 'src/lights/index.html'),
                 shadow: resolve(__dirname, 'src/shadow/index.html'),
                 house: resolve(__dirname, 'src/house/index.html'),
+                galaxy: resolve(__dirname, 'src/galaxy/index.html'),
             }
         }
     },
